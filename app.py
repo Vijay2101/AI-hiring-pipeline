@@ -109,6 +109,9 @@ async def run_pipeline(job_description: str):
 
     return result
 
+@app.route("/")
+def home():
+    return "Flask API is live on Hugging Face!"
 
 @app.route('/run_pipeline', methods=['POST'])
 def run_pipeline_api():
