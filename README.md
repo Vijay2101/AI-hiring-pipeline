@@ -1,7 +1,8 @@
 
 # AI-Powered Hiring Agent
 
-
+**LIVE DEMO:** 
+[![Hugging Face Space](https://img.shields.io/badge/Launch-HuggingFace-blue?logo=huggingface)](https://huggingface.co/spaces/vJx21/Hiring-Agent)
 
 This project is an end-to-end AI-powered hiring pipeline that automates the process of:
 
