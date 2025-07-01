@@ -3,6 +3,7 @@
 
 **LIVE DEMO:** 
 [![Hugging Face Space](https://img.shields.io/badge/Launch-HuggingFace-blue?logo=huggingface)](https://vjx21-hiring-agent.hf.space/)
+**Use the endpoint /run_pipeline on postman, see example below**
 
 This project is an end-to-end AI-powered hiring pipeline that automates the process of:
 
